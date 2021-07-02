@@ -20,9 +20,13 @@ Con los argumentos -i o -o, hace falta crear 3 ficheros y pasarlos como argument
 Para dar órdenes, separa con punto y coma sin espacios, por favor.
 Ejemplo:
 add;Juego de Tronos;RR Martin;1996;5894(id)
+
 reg;Javier;Cuenca;49051758
+
 loans;lend;0(usuario);5894(id)
+
 loans;ret;0(usuario);0(prestamo);4(valoracion)
+
 info;avg
 ...
 
